@@ -18,7 +18,7 @@ Passionate about network security, malware analysis, and building defensive secu
 
 | Category | Tools & Technologies |
 |---|---|
-| Languages | Python, Java, SQL |
+| Languages | C++, Python, SQL |
 | Security | Scapy, Wireshark, Aircrack-ng, YARA, Nmap |
 | Frameworks | Spring Boot, Flask |
 | Platforms | Kali Linux, Ubuntu |
